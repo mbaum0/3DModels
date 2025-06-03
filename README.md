@@ -10,3 +10,9 @@ The DW715 dust port's outer diameter is ~1.5" (38.1mm). I wanted the adapter to 
 The male end of the HD1200 is a tapered 2.25" (57.15mm). 2 9/32 (58mm) was a perfect fit on the adapter.
 
 I used [FollyMaker's work](https://www.thingiverse.com/thing:1246651) as a starting point.
+
+### Print Settings
+Printer: MK4S
+Infill: 15%
+Brim: Yes
+Material: PLA
